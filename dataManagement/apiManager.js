@@ -17,7 +17,7 @@ const apiUrl = "https://api-football-v1.p.rapidapi.com/v2"
 //
 const apiHeader = {
     "x-rapidapi-host": "api-football-v1.p.rapidapi.com",
-    "x-rapidapi-key": "b83b9990e7mshd384123d903f6a1p10dfd3jsn55c2c5a042bc"
+    "x-rapidapi-key": "12efe20a69msh701a8b1522ba140p17ad8djsn97ab34e01ae0"
 }
 
 module.exports = function() {
